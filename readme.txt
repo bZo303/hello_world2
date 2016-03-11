@@ -1,1 +1,1 @@
-I'm in a GIT Hub class right now learning to GIT wit it!
+I'm in a GIT Hub class right now learning to GIT wit it! We are learning to commit. 
